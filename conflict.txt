@@ -1,1 +1,4 @@
-Git is too hard. I hate it!
+
+Git is great, I love it!
+
+Git is great, I love it!
